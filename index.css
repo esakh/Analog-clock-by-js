@@ -1,5 +1,5 @@
 *{
-    margin: 0%;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -132,14 +132,6 @@
     left: 50.45%;
     transform-origin: bottom;
 }
-/* .second::after{
-    content: "";
-    background-color: rgb(255, 255, 255);
-    position: absolute;
-    width: 1px;
-    height: 10px;
-} */
-
 .clock::after{
     content: "";
     position: absolute;
